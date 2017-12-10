@@ -3,3 +3,4 @@ __pycache__
 *.pyc
 chromedriver_linux64.zip
 geckodriver.log
+./static
